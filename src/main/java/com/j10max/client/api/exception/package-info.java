@@ -1,0 +1,1 @@
+package com.j10max.client.api.exception;
